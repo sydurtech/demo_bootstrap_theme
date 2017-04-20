@@ -1,0 +1,293 @@
+.{}
+.{}
+.headerArea{
+	background: url(startup-1.jpg);
+	/*background-image:url("image1.jpg");*/
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+}
+.navbarColor{
+	background-color:transparent;
+	border-color:transparent;
+}
+#logo{
+	color:#28669F;
+	margin:0 auto;
+	border-radius:5px;
+	background-color:white;
+	font-family: 'Merriweather', serif;
+	font-weight: lighter;
+	font-size:18px;
+}
+nav{
+	padding-top:40px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #f5f5f5;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+	}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color:#BCCDD2;
+}
+.{}
+.textContents{
+	padding: 50px 0px;
+}
+.textContents h1{
+	font-family: 'Ubuntu', sans-serif;
+	color:white;
+	font-weight: lighter;
+}
+.textContents p{
+	font-family: 'Ubuntu', sans-serif;
+	color:white;
+	font-size:18px;
+	font-weight: lighter;
+	color:#BCCDD2;
+	padding-top:10px;
+	padding-bottom: 20px;
+}
+.nav{
+	top: 40px;
+}
+.sliderRightContent{
+	padding-top: 150px;
+}
+.contentf-right-text{}
+.contentf-right-text h2{
+	text-transform: uppercase;
+	font-size: 16px;
+	color: gray;
+	line-height: 2px;
+}
+.contentf-right-text h1{
+	font-size: 26px;
+	color: black;
+	font-weight: bold;
+}
+.contentf-right-text p{
+	font-size: 18px;
+	color:rgba(0,0,0,.5);
+	line-height: 22px;
+}
+.containerf-sub1{}
+.containerf-sub1 h2{
+	font-size: 24px;
+	color:rgba(0,0,0,.5);
+	padding-top: 10px; 
+}
+.containerf-sub1 p{
+	font-size: 18px;
+	color:rgba(0,0,0,.5);
+}
+.{}
+.sliderTop{
+	background: #262F36;
+	padding: 80px 0px;
+}
+.sliderTop-left h2{
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 18px;
+	padding-top: 40px;
+}
+.sliderTop-left h1{
+	color: #fff;
+	/*text-transform: uppercase;*/
+	font-size: 22px;
+}
+.sliderTop-left p{
+	color: #ededed;
+	padding-bottom: 25px;
+}
+.{}
+.{}
+.contentf{
+	background: #fff;
+}
+.{}
+.{}
+.third-content{
+	background: url(startup-3.jpg);
+	
+}
+.third-content-right{
+	padding: 200px 0px;
+	/*position: absolute;*/
+	/*top: -550px;*/
+	/*left: 70px;*/
+}
+.third-content-right h2{
+	text-transform: uppercase;
+	color: #ededed;
+	font-size: 18px;
+}
+.third-content-right h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 22px;
+	line-height: 27px;
+}
+.third-content-right p{
+	color: #ededed;
+}
+.logo-area{
+	background: #2595FF;
+	
+}
+.logo img{
+	/*margin-right: 5px;*/
+	width: 100%;
+	height: auto;
+	padding: 40px 0px;
+}
+.{}
+.{}
+.{}
+.mainService{
+	background: #FFFFFF;
+	padding: 30px 0px;
+}
+.promo1{
+	text-align: center;
+	padding: 20px 0px;
+	
+}
+.promo1 h3{
+	text-transform: uppercase;
+	line-height: 10px;
+	font-size: 14px;
+}
+.promo1 h2{
+	line-height: 10px;
+	font-size: 18px;
+}
+.promo-pic img{
+	margin: 0 auto;
+}
+.promo-content p{
+	text-align: center;
+	padding: 10px 0px;
+}
+.promo-content a{
+	color: #6C6F88;
+}
+.promo-content a:hover{
+	color: #6C6F88;
+	text-decoration: none;
+}
+.promo1Service{
+	padding: 20px 0px;
+}
+.{}
+.service{
+	background: #F4F5F6;
+	padding: 50px 0px;
+}
+.service-content{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.service-content h3{
+	color: #BEC8CE;
+	font-size: 18px;
+	line-height: 5px;
+	text-transform: uppercase;
+}
+.service-content h2{
+	color: black;
+	line-height: 30px;
+	font-size: 24px;
+}
+.serviceHeader h2{
+	text-transform: uppercase;
+	text-align: center;
+	color: #BEC8CE;
+	font-size: 18px;
+}
+.serviceImage img{
+	/*width: 100%;*/
+	margin: 0 auto;
+}
+.serviceContent p{
+	text-align: center;
+	padding: 15px 0px;
+
+}
+.menu{}
+.menu ul {
+	list-style: none;
+}
+.menu ul li{
+	padding: 20px 0px;
+	border-top: 1px solid #BEC8CE;
+	text-align: center;
+}
+.menu ul li:last-child{
+	
+	border-bottom: 1px solid #BEC8CE;
+}
+.service-button{
+	text-align: center;
+	padding-top: 20px; 
+}
+.{}
+.{}
+.{}
+.footer{
+	background: #262F36;
+	padding: 25px 0px;
+}
+/*.footerHeader h2{
+	color: #FFF2CC;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.footerContent p{
+	color: #ededed;
+}
+.email a{
+	color: #fff;
+}
+.email a:hover{
+	color: white;
+	text-decoration: none;
+}*/
+.footersubheader h3{
+	color: #FFF2CC;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.footersubtext a{
+	color: #ededed;
+	font-size: 14px;
+
+}
+.footersubtext a:hover{
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+.footerLeft h2{
+	color: #FFF2CC;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.footerLeft p{
+	color: #ededed;
+	text-align: justify;
+	font-size: 14px;
+	line-height: 20px;
+}
+.footerLeft a{
+	color: white;
+}
+.footerLeft a:hover{
+	text-decoration: none;
+	color: white;
+}
+.{}
